@@ -47,8 +47,7 @@
 ![image](https://github.com/user-attachments/assets/87520a02-9556-4ea7-8be1-806ed46d7ac1)
 
 
-### Name:PRIYADHARSHINI P
-### Register Number:212224040252
-
+### Name:NARENDRAN B    
+### Register Number:212222240069
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
